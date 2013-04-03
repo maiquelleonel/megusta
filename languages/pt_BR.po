@@ -1606,12 +1606,12 @@ msgstr ""
 #. Text in function
 #: megusta/related-posts.php:291
 msgid "Related Posts"
-msgstr ""
+msgstr "Posts relacionados"
 
 #. Text in echo
 #: megusta/related-posts.php:77
 msgid "Related posts"
-msgstr ""
+msgstr "Posts relacionados"
 
 #. Text in function
 #: megusta/lib/php/simple_modal_login.class.php:1
