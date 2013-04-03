@@ -1146,13 +1146,13 @@ msgstr ""
 #. Text in echo
 #: megusta/page.php:133
 msgid "Leave a Reply"
-msgstr "Deixe um comentário"
+msgstr "Deixe um coment&aacute;rio"
 
 #. Text in echo
 #: megusta/single.php:413
 #: megusta/comments.php:107
 msgid "Leave a reply"
-msgstr ""
+msgstr "Deixe um coment&aacute;rio"
 
 #. Text in echo
 #: megusta/lib/php/widget/tabber.php:367
