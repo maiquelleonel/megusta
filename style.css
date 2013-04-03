@@ -293,7 +293,7 @@ background: rgba(255, 255, 255, 0.90); border: 1px solid #EFEFEF; }
 .searchform #searchform, .widget_search #searchform{ text-align: left; position: relative;}
 .searchform #searchform { float: right;}
 .searchform #searchbox, .widget_search #searchbox { float: left; margin: 0; }
-.searchform #searchbox input.input, .widget_search #searchbox input.input{ width: 198px; font-family: Georgia; font-style: italic; color: #999999; border-top-right-radius: 0px; border-bottom-right-radius: 0px; -moz-border-top-right-radius: 0px; -moz-border-bottom-right-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px;}
+.searchform #searchbox input.input, .widget_search #searchbox input.input{ width: 192px; font-family: Georgia; font-style: italic; color: #999999; border-top-right-radius: 0px; border-bottom-right-radius: 0px; -moz-border-top-right-radius: 0px; -moz-border-bottom-right-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px;}
 .widget_search #searchbox input.input{ width: 162px;}
 .searchform #searchform .button, .widget_search #searchform .button { margin-left: -1px; *top: 1px;}
 .searchform #searchform .button input, .widget_search #searchform .button input { *padding: 0 10px!important; font-family: Helvetica, Arial, sans-serif;}
