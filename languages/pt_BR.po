@@ -1688,7 +1688,7 @@ msgstr ""
 #: megusta/searchform.php:7
 #: megusta/lib/php/options.register.php:1
 msgid "Search"
-msgstr "Busca"
+msgstr "Buscar"
 
 #. Text in echo
 #: megusta/search.php:32
