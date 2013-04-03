@@ -1,0 +1,33 @@
+/*
+ * SimpleModal Login - WordPress Modal Ajax Login
+ * Theme: default
+ * Copyright (c) 2010 Eric Martin http://www.ericmmartin.com
+ */
+
+#simplemodal-login-overlay {background-color:#000;}
+#simplemodal-login-container {width:400px;}
+#simplemodal-login-container .simplemodal-wrap {overflow: visible!important;}
+#simplemodal-login-container .message,
+#simplemodal-login-container #login_error {background-color: #ffebe8; border:1px solid #c00; margin-bottom:8px; padding:6px; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px;}
+#simplemodal-login-container .message {background-color:#ffffe0; border-color:#e6db55;}
+#simplemodal-login-container form {background:#fff; border:1px solid #e5e5e5; font-weight:normal; margin-left:0 auto; padding:15px; text-align:left; -moz-border-radius:11px; -webkit-border-radius:11px; border-radius:5px; -moz-box-shadow:rgba(153,153,153,1) 0 4px 18px; -webkit-box-shadow:rgba(153,153,153,1) 0 4px 18px; box-shadow:rgba(153,153,153,1) 0 4px 18px;}
+#simplemodal-login-container form label {color:#777; font-size:12px;}
+#simplemodal-login-container form p {margin-bottom:0;}
+#simplemodal-login-container form .forgetmenot {font-weight:normal; float:left; line-height:19px; margin-bottom:0;}
+#simplemodal-login-container form .submit {margin: 0 20px 0 10px;}
+#simplemodal-login-container form .submit input.simplemodal-close {}
+
+#simplemodal-login-container .title {font-size:28px; padding-bottom:15px;}
+#simplemodal-login-container .nav {clear:both; color:#888; padding-top:15px; text-align:center;}
+#simplemodal-login-container .nav a {color:#888;}
+#simplemodal-login-container .reg_passmail {clear:both; color:#666; font-weight:bold; padding-bottom:15px; text-align:center;}
+#simplemodal-login-container .user_pass,
+#simplemodal-login-container .user_login,
+#simplemodal-login-container .user_email {font-size:18px; width:98%; padding:3px; margin-top:2px; margin-bottom:15px; border:1px solid #e5e5e5; background:#fbfbfb;}
+#simplemodal-login-container .rememberme {vertical-align:middle;}
+.simplemodal-login-activity {background:url(../images/ajax-loader.gif) center no-repeat; height:66px; margin-bottom:15px;}
+.simplemodal-login-credit {font-size:11px; padding-top:4px; text-align:center;}
+.simplemodal-login-credit a {color:#999; text-decoration:none;}
+
+#simplemodal-login-container .cosmo-box.warning {padding: 6px; float: none; width: auto; -moz-border-radius: 4px; -khtml-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;}
+#simplemodal-login-container .fb_connect span.fb-loading { background-image: url(../images/fb-loading.gif); width:16px; height:11px; display:block; }

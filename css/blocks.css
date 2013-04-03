@@ -1,0 +1,29 @@
+.b_page{ width: 960px; margin: 0 auto; position: relative; z-index: 10; }
+.b:before,.b:after{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0}.b:after{clear:both}.b{zoom:1}
+.b{ margin: 0 10px; float: left; position: relative; }
+.w_960{ width: 960px; }
+.w_940{ width: 940px; }
+.w_860{ width: 860px; }
+.w_780{ width: 780px; }
+.w_700{ width: 700px; }
+.w_660{ width: 660px; }
+.w_620{ width: 620px; }
+.w_540{ width: 540px; }
+.w_460{ width: 460px; }
+.w_440{ width: 440px; }
+.w_380{ width: 380px; }
+.w_300{ width: 300px; }
+.w_290{ width: 290px; }
+.w_280{ width: 280px; }
+.w_270{ width: 270px; }
+.w_260{ width: 260px; }
+.w_250{ width: 250px; }
+.w_255{ width: 255px; *width: 260px; }
+@media \0screen {
+  .w_255 {width: 260px;}/*Fucking IE 8*/
+}
+.w_220{ width: 220px; }
+.w_140{ width: 140px; }
+.w_120{ width: 120px; }
+.w_105{ width: 105px; *width: 100px; }
+.w_60{ width: 60px; }

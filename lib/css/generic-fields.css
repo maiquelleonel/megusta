@@ -1,0 +1,251 @@
+div.standard-generic-field {
+	padding:0 0px 20px 0px;
+}
+div.standard-generic-field.submit{
+    border-top:1px dashed #cdcdcd;
+    margin-top:10px;
+    padding-top:25px;
+}
+div.standard-generic-field.submit input{
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+}
+div.standard-generic-field div.generic-label{
+	display:inline-block;
+	float:left;
+	width:300px;
+	margin-right:15px;
+	padding-top:5px;
+    padding-left:0;
+}
+div.standard-generic-field label{
+	font-size:12px;
+}
+div.standard-generic-field div.generic-field{
+	float:left;
+	width: 318px;
+	font-size: 12px;
+}
+div.standard-generic-field div.generic-field.generic-field-color-picker, div.standard-generic-field div.generic-field.generic-field-upload{
+	width: 380px;
+}
+div.standard-generic-field div.generic-field div.generic-hint{
+	color:#999999;
+	font-size:11px;
+}
+div.standard-generic-field div.generic-field-radio div.generic-hint{
+	display:inline;
+    color:#999999;
+	font-size:11px;
+}
+div.standard-generic-field div.generic-field-checkbox div.generic-hint , span.generic-hint{
+    display:block;
+	color:#999999;
+	font-size:11px;
+}
+/* for all generic fields */
+.generic-field input[type="text"],
+.generic-field textarea,
+.generic-field select,
+.generic-field input[type="checkbox"]{
+	border:1px solid #ababab;
+}
+
+generic-field.full{
+    width:auto;
+}
+
+div.standard-generic-field select,
+div.standard-generic-field input[type="text"]{
+	height:30px;
+	width:290px;
+}
+div.standard-generic-field textarea{
+	height:80px;
+	width:300px;
+}
+div.standard-generic-field select{
+	height:30px !important;
+    margin-right:10px;
+}
+div.standard-generic-field input[type="checkbox"]{
+    margin-right:10px;
+}
+
+div.standard-generic-field input[type="button"]{
+    height:25px;
+    -moz-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+div.standard-generic-field input[type="button"].button-field{
+    height: 25px;
+    width: 150px;
+    font-weight: bold;
+    -moz-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+/* in line generic  */
+span.inline-generic-field{
+
+}
+span.inline-generic-field.antet-event span.generic-label{
+    width:300px;
+    display:inline-block;
+    margin-right:15px;
+	padding-top:10px;
+    padding-left:5px;
+}
+
+span.inline-generic-field.antet-event span.generic-label label{
+    font-size: 16px;
+}
+
+/* short generic field */
+div.short-generic-field{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+div.short-generic-field select{
+    width:258px;
+}
+div.short-generic-field div.generic-label{
+    padding-bottom:3px;
+    padding-left:3px;
+}
+
+/**/
+div.generic-field.full{
+    width:700px!important;
+}
+.generic-record-title {
+    text-transform: uppercase;
+    font-size:14px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted #ececec;
+	margin: 1em 0 0 0;
+}
+
+/*  aditional */
+.pattern-texture{
+    border:5px solid #efefef;
+    margin:0px 5px 5px 0px;
+}
+
+.pattern-texture.selected{
+    border:5px solid #dfdfee;
+}
+.pattern-texture.selected:hover{
+    border:5px solid #dfdfff;
+}
+
+.pattern-texture:hover{
+    border:5px solid #dfdfdf;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* extra class forms style */
+.admin-content div.multiple-record{
+    width:615px;
+    background:#ededed;
+    border:1px solid #cdcdcd;
+    margin-bottom:1px;
+}
+
+.admin-content div.multiple-record .record-antet{
+    background:#e2e2e2;
+    margin:1px;
+    padding:5px;
+}
+
+.admin-content div.multiple-record .record-antet a.delete-action{
+    color:#cc0000;
+}
+
+.admin-content div.multiple-record .record-antet span.actions{
+    float:right;
+}
+
+.admin-content div.multiple-record .icon-column,
+.admin-content div.multiple-record .info-column {
+    float:left;
+}
+
+.admin-content div.multiple-record .info-column{
+    padding:10px;
+    max-width:480px;
+}
+
+.admin-content div.multiple-record .info-column div.label{
+    width:160px;
+    float:left;
+    margin-bottom:5px;
+    padding-top: 5px;
+}
+.admin-content div.multiple-record .info-column div.input{
+    width:320px;
+    float:left;
+    margin-bottom:3px;
+}
+
+.admin-content div.multiple-record .info-column input[type="text"],
+.admin-content div.multiple-record .info-column textarea{
+    width:320px;
+}
+
+.admin-content div.multiple-record .info-column textarea{
+    height:130px;
+}
+
+.admin-content div.multiple-record div.icon{
+    margin:10px 10px 0 10px;
+    padding:5px;
+    background:#fff;
+    border:1px solid #cdcdcd;
+    float:left;
+}
+
+.admin-content div.multiple-record div.fvisible.icon:hover{
+    border:1px solid #999;
+    cursor:pointer;
+}
+
+.pickcolor{
+	border: 1px solid #DFDFDF;
+    margin: 0px 7px 0 3px;
+    padding: 5px 14px;
+    border-radius: 4px;
+}
+
+.colorPickerDiv{
+	margin-left:290px;
+	margin-top:20px;
+}
+
+.autocomplete-w1 { position:absolute; top:0px; left:0px; margin:8px 0 0 6px; /* IE6 fix: */ _background:none; _margin:0; }
+.autocomplete { border:1px solid #999; background:#FFF; cursor:default; text-align:left; max-height:350px; overflow:auto; margin:-6px 6px 6px -6px; /* IE6 specific: */ _height:350px;  _margin:0; _overflow-x:hidden; }
+.autocomplete .selected { background:#F0F0F0; }
+.autocomplete div { padding:2px 5px; white-space:nowrap; }
+.autocomplete strong { font-weight:normal; color:#3399FF; }
