@@ -1,0 +1,2675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: William Franz <william@linklar.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:445
+#: megusta/lib/php/widget/latest_posts.php:97
+#: megusta/related-posts.php:245
+msgid " Off"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid " in blog / archive / search / tag / category page"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:24
+msgid "%1$s&nbsp;&nbsp;%2$s"
+msgstr ""
+
+#. Text in function
+#: megusta/pagination.php:1
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "(i.e. http://www.linkedin.com/company/cosmothemes)"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:346
+#: megusta/lib/php/widget/tabber.php:348
+#: megusta/lib/php/widget/top_authors.php:38
+msgid "30 days"
+msgstr "30 dias"
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "404"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:340
+#: megusta/lib/php/widget/tabber.php:342
+#: megusta/lib/php/widget/top_authors.php:37
+msgid "7 days"
+msgstr "7 dias"
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: All fields are required."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The email field is empty."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "A video post must have a featured video."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Ad area below logo"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Ad area below post content"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Ad area nr 1"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Ad area nr 2"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:226
+#: megusta/lib/php/CosmoUploader.class.php:283
+msgid "Add URL"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:229
+#: megusta/lib/php/CosmoUploader.class.php:286
+msgid "Add a URL"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:107
+msgid "Add comment"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Add content displayed in floating box"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:473
+msgid "Add file"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:370
+msgid "Add mp3 audio file"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Add new Sidebar"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:76
+msgid "Add picture"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:165
+msgid "Add post"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:271
+msgid "Add text"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:174
+msgid "Add video"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:308
+msgid "Aditional Info"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Advertisement"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Advertisement Spaces"
+msgstr ""
+
+#. Text in echo
+#: megusta/author.php:98
+#: megusta/author-box.php:48
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Allow changing theme stylesheet"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Allow front-end users to change theme stylesheet for themselves. The choosen style will be saved in their cookies"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "An image post must have a featured image. "
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tweets.php:47
+msgid "Animated"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Appearance -> Menus"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Appearence - Background"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Archive by category"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Articles posted by "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Attachment"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Attachment Posts Settings"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:67
+#: megusta/lib/php/resources.register.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Audio File is required. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: megusta/author.php:40
+msgid "Author archives: "
+msgstr ""
+
+#. Text in echo
+#: megusta/footer.php:88
+msgid "Back to Top"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:484
+msgid "Be descriptive or interesting!"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:102
+msgid "Biographical information"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Blog Page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Blog Post Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/archive.php:48
+msgid "Blog archives"
+msgstr ""
+
+#. Text in echo
+#: megusta/index.php:32
+msgid "Blog page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Blog post page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Blogging"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:60
+msgid "Box url"
+msgstr ""
+
+#. Text in echo
+#: megusta/style_switcher.php:91
+msgid "Boxed body"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:10
+msgid "Button"
+msgstr ""
+
+#. Text in echo
+#: megusta/author-box.php:27
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:515
+#: megusta/lib/php/options.register.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: megusta/category.php:32
+msgid "Category archives: "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/category_icons.php:1
+msgid "Category icons"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/category_icons.php:1
+msgid "Category with representative icons"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/meta.class.php:1
+msgid "Choose File"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Classic blog style "
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:204
+msgid "Click on a thumbnail to make it featured. "
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:65
+msgid "Click on picture to change it"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.class.php:236
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:9
+msgid "Columns"
+msgstr ""
+
+#. Text in echo
+#: megusta/comments.php:82
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: megusta/comments.php:82
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:837
+msgid "Confirm to delete this post."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+#: megusta/lib/php/map.class.php:302
+#: megusta/lib/php/widget/social_media.php:78
+msgid "Contact email"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:284
+msgid "Contact phone 1"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:290
+msgid "Contact phone 2"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/contact.php:1
+msgid "Contact us"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:42
+msgid "Content"
+msgstr ""
+
+#. Text in echo
+#: megusta/style_switcher.php:48
+msgid "Content bg color"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for archive page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for author page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for blog page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for category page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for front page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for search page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Content view for tags page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Copyright"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "CosmoThemes"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "CosmoThemes notifications."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Custom Favicon"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Custom Logo URL"
+msgstr ""
+
+#. Text in function
+#: megusta/archive.php:48
+msgid "Daily archives"
+msgstr ""
+
+#. Text in function
+#: megusta/style_switcher.php:96
+#: megusta/header.php:289
+msgid "Day mode"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Default Posts Status"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Default Posts Status for edited posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:840
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:277
+msgid "Description Info "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/contact.php:1
+msgid "Display Contact form"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Display featured image inside post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/social_media.php:1
+msgid "Display list of social media icons"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/contact.php:41
+msgid "Drag and drop the marker location. To use google map, set the key in panel management"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "E-mail"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:86
+msgid "E-mail *"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:835
+#: megusta/lib/php/post.class.php:842
+#: megusta/comments.php:48
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:370
+msgid "Edit audio file"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:473
+msgid "Edit file"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:76
+msgid "Edit picture"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:835
+msgid "Edit post"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:271
+msgid "Edit text"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:174
+msgid "Edit video"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/map.class.php:30
+msgid "Email "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Email (required)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable Cosmothemes news notification"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable Love for posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable audio posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable automated day/night mode style switch"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable comments for attachment posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable default menu"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable file posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable image posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable keyboard demo"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable notification about new theme version"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable pretty-photo ligthbox"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable similar posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable social sharing for attachment posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable social sharing for page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable social sharing for posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable text posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable text-based Site Title and Tagline."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable user login"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable users to edit/delete own posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Enable video posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Error 404"
+msgstr ""
+
+#. Text in echo
+#: megusta/loop-404.php:22
+msgid "Error 404, page, post or resource can not be found"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:150
+#: megusta/post_item.php:248
+#: megusta/post_item.php:345
+#: megusta/post_item.php:449
+#: megusta/post_item.php:553
+#: megusta/lib/php/resources.register.php:1
+msgid "Example: http://cosmothemes.com"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/facebook.class.php:40
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Facebook Application ID"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/social_media.php:58
+msgid "Facebook ID"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Facebook Secret key"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Facebook profile ID"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+#: megusta/lib/php/map.class.php:296
+msgid "Fax"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/map.class.php:29
+msgid "Fax "
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:70
+msgid "File"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "File is required. "
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:78
+msgid "First name"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Flickr ID"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/social_media.php:73
+msgid "Flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/flickr.php:78
+msgid "Flickr Photos"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/text.class.php:1
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/text.class.php:1
+msgid "Font Size"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/text.class.php:1
+msgid "Font Weight"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/actions.register.php:1
+#: megusta/lib/php/widget/actions.register.php:1
+msgid "Footer First"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/actions.register.php:1
+#: megusta/lib/php/widget/actions.register.php:1
+msgid "Footer Second"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/actions.register.php:1
+#: megusta/lib/php/widget/actions.register.php:1
+msgid "Footer Third"
+msgstr ""
+
+#. Text in echo
+#: megusta/style_switcher.php:29
+msgid "Footer bg color"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front Page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front Page Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front end tabs"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front end tabs settings."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Front page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+#: megusta/lib/php/options.register.php:1
+msgid "Full Width"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.class.php:1
+msgid "Gallery Type"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General Page Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General Posts Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "General settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Get New Password"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Google map key"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Grid view"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/WP_Editor.class.php:267
+msgid "HTML"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:320
+msgid "Hide Contact form"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:327
+msgid "Hide Map"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+#: megusta/lib/php/menu.class.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Hot Posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled featured images will be displayed both on category and post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled users can click on the keyboard icon to visualize keyboard hot-keys."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled, then user will be able to post Audio posts from front end"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled, then user will be able to post File(Attachments) posts from front end"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled, then user will be able to post Image posts from front end"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled, then user will be able to post Text posts from front end"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If enabled, then user will be able to post Video posts from front end"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "If you wish to set blog page go to "
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:58
+#: megusta/lib/php/resources.register.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Images inside posts will open inside a fancy lightbox"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:98
+msgid "In order for this widget to function please install WordPress JetPack plugin"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:12
+msgid "Info Box"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/contact.php:46
+msgid "Insert Contact Form"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Insert your flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Invalid video URL. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "It is needed for Facebook connect."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:276
+msgid "JPEG, GIF or PNG."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:204
+msgid "JPEG, GIF or PNG. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/tweets.class.php:1
+#: megusta/lib/php/widget/tweets.php:204
+msgid "Join the conversation"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:82
+msgid "Last name"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/flickr.php:74
+msgid "Latest Photo"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/latest_posts.php:1
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tweets.php:50
+msgid "Latest Tweets"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tweets.php:1
+msgid "Latest tweets"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout Page Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Layout and Sidebars"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for 404 page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for archive page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for attachment page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for author page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for blog page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for category page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for front page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for pages"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for search page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for single post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout for tags page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Layout page description."
+msgstr ""
+
+#. Text in echo
+#: megusta/page.php:133
+msgid "Leave a Reply"
+msgstr "Deixe um comentário"
+
+#. Text in echo
+#: megusta/single.php:413
+#: megusta/comments.php:107
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:367
+msgid "Leave blank to show all tags"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+#: megusta/lib/php/options.register.php:1
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in echo
+#: megusta/author.php:97
+#: megusta/author-box.php:50
+msgid "Likes"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+#: megusta/lib/php/widget/social_media.php:68
+msgid "LinkedIn Public Profile URL"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "List of generic dinamic Sidebars"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "List view"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Log in"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:167
+msgid "Log out"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:107
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:107
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:107
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/submit.php:1
+msgid "Logged users can submit content"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:204
+msgid "MP3 only. "
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:204
+msgid "MP4 only. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/actions.register.php:1
+#: megusta/lib/php/widget/actions.register.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:14
+msgid "Map/Contact"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Menu Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Menu page description."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/contact.class.php:71
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Minimum number of Loves to set Hot"
+msgstr ""
+
+#. Text in function
+#: megusta/archive.php:48
+msgid "Monthly archives"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:161
+msgid "My loved posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:157
+msgid "My profile"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:154
+msgid "My settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Name (required)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "New Posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:937
+#: megusta/lib/php/post.class.php:941
+#: megusta/lib/php/post.class.php:948
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: megusta/pagination.php:1
+msgid "Next &raquo;"
+msgstr ""
+
+#. Text in function
+#: megusta/style_switcher.php:96
+#: megusta/header.php:303
+msgid "Night mode"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Not safe"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/top_authors.php:93
+msgid "Number authors to dislay"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:360
+msgid "Number of comments"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:325
+msgid "Number of hot posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tweets.php:43
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:355
+msgid "Number of new posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/flickr.php:65
+msgid "Number of photos"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/latest_posts.php:159
+msgid "Number of posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Number of similar posts ( full width )"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Number of similar posts ( with sidebar )"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:365
+msgid "Number of tags"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Page Author Box"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Page Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Pages / single post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:94
+msgid "Password *"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Password Lost and Found"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Paste your Google Analytics or other tracking code here,<br /> and it will be added into the footer of your template."
+msgstr ""
+
+#. Text in echo
+#: megusta/style_switcher.php:56
+msgid "Patterns"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Pending"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:330
+msgid "Period of hot posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:300
+#: megusta/lib/php/post.class.php:305
+#: megusta/lib/php/post.class.php:307
+#: megusta/lib/php/post.class.php:310
+#: megusta/lib/php/post.class.php:553
+#: megusta/lib/php/post.class.php:558
+#: megusta/lib/php/post.class.php:560
+#: megusta/lib/php/post.class.php:563
+msgid "Permalink to"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Phone 1"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/map.class.php:27
+msgid "Phone 1 "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Phone 2"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/map.class.php:28
+msgid "Phone 2 "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/flickr.php:78
+msgid "Photo Gallery"
+msgstr ""
+
+#. Text in echo
+#: megusta/comments.php:47
+msgid "Pingback"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Please add attachment file or URL"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Please add audio file or URL"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Please select 'ico' type media file. Make sure you allow uploading 'ico' type in General Settings -> Upload file types."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Please set Love limit for Hot posts in "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/tweets.class.php:1
+msgid "Please set Twitter user name !!!"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Please set featured image"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Please use  only MP3 files"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Please use only .ZIP, .RAR, .DOC, .DOCX, .PDF files"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Post Author Box"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Post Format"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Post Source"
+msgstr ""
+
+#. Text in echo
+#: megusta/author.php:96
+#: megusta/author-box.php:49
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Posts tagged"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/text.class.php:1
+msgid "Preview Text"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:936
+#: megusta/lib/php/post.class.php:940
+#: megusta/lib/php/post.class.php:947
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:50
+msgid "Profile picture"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Published"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/contact.php:1
+msgid "Quick Contact form"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/flickr.php:73
+msgid "Random Photo"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:396
+#: megusta/lib/php/post.class.php:409
+#: megusta/lib/php/post.class.php:423
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Registration is required to Love a post"
+msgstr ""
+
+#. Text in function
+#: megusta/related-posts.php:291
+msgid "Related Posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/related-posts.php:77
+msgid "Related posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Remember Me"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:66
+msgid "Remove avatar"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:840
+msgid "Remove post"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:98
+msgid "Repeat password *"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Reset"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Reset Password"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Reset likes"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:54
+msgid "Right Description"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+#: megusta/lib/php/options.register.php:1
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:48
+msgid "Right Title"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:77
+msgid "Right color"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:66
+msgid "Right style"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Same category"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Same tags"
+msgstr ""
+
+#. Text in echo
+#: megusta/searchform.php:7
+#: megusta/lib/php/options.register.php:1
+msgid "Search"
+msgstr "Busca"
+
+#. Text in echo
+#: megusta/search.php:32
+msgid "Search results"
+msgstr "Resultados de busca"
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Search results for"
+msgstr "Resultados de busca por"
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select My account page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select Theme Background"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select a blank page from the list to generate the My account page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select content type"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Select layout type"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Select post format"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Select sidebar"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for 404 template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for archive template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for attachment template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for author template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for blog page template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for category template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for front page template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for page template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for search template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for single page template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select sidebar for tag template."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Select static page for front page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/shcode.class.php:1
+msgid "Send Message"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set background color"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set boxed content style"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set footer background color"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set limit for Footer Menu"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set limit for Main Menu"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set minimum number of post likes to change it in hot post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set the number of visible menu items."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set the number of visible menu items. Remaining menu items<br />will be shown in the drop down menu item \"More\"."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Set title for new Sidebar"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Settings -> Reading "
+msgstr ""
+
+#. Text in echo
+#: megusta/social-sharing.php:7
+msgid "Share"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Shortcodes"
+msgstr ""
+
+#. Text in echo
+#: megusta/author.php:95
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Show Post Source"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/social_media.php:83
+msgid "Show RSS"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Show Wordpress Admin Bar"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show author box"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show author box on this post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Show breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Show entry meta"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Show floating box"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show page meta"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show post love"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show post love on this post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show post meta"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show post meta on this post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show related mosts on this post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show related posts"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show social mharing on this post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Show social sharing"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/flickr.php:71
+msgid "Showing Method"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Sidebar Manager"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Sidebar manager page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Similar posts criteria"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Simulate"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Simulate random number of Loves for posts"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:22
+msgid "Size"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/social_media.php:1
+msgid "Social Media"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Social Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Social page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tabber.php:89
+msgid "Sorry, no hot posts found."
+msgstr ""
+
+#. Text in echo
+#: megusta/loop-404.php:22
+msgid "Sorry, no posts found"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tabber.php:272
+msgid "Sorry, no posts found."
+msgstr ""
+
+#. Text in echo
+#: megusta/loop-404.php:22
+#: megusta/lib/php/extra.class.php:1
+msgid "Sorry, no results found."
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:147
+#: megusta/post_item.php:550
+#: megusta/lib/php/resources.register.php:1
+msgid "Source"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Source:"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/resources.register.php:1
+msgid "Standard"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Static Page"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/main.php:293
+msgid "Status: "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Styling Settings"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Styling page description."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/submit.php:1
+msgid "Submit Content"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/contact.class.php:74
+msgid "Submit form"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:166
+#: megusta/post_item.php:262
+#: megusta/post_item.php:360
+#: megusta/post_item.php:465
+#: megusta/post_item.php:568
+msgid "Submit post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Success. Your post is awaiting moderation"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Success. Your post is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tabber.php:1
+msgid "Tabber"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:11
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Tag"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:139
+#: megusta/post_item.php:542
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: megusta/tag.php:32
+msgid "Tags archives"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:64
+msgid "Text"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:491
+msgid "Text content"
+msgstr ""
+
+#. Text in function
+#: megusta/user_profile.php:7
+#: megusta/user_profile_update.php:1
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tabber.php:332
+msgid "There are no comments"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/tabber.php:282
+msgid "There are no tags."
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:155
+#: megusta/post_item.php:253
+#: megusta/post_item.php:350
+#: megusta/post_item.php:454
+#: megusta/post_item.php:558
+msgid "This is NSFW (Not Safe For Work)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "This is the status used for posts edited from front end."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "This is the status used for posts submited from front end."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "This key is neded if you want to use google map in contact form."
+msgstr ""
+
+#. Text in echo
+#: megusta/comments.php:63
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "This will enable the page author box on the single page.<br /> Edit description in Users > Your Profile."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "This will enable the post author box on the single posts page.<br /> Edit description in Users > Your Profile."
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:480
+#: megusta/lib/php/widget/category_icons.php:82
+#: megusta/lib/php/widget/tabber.php:320
+#: megusta/lib/php/widget/flickr.php:54
+#: megusta/lib/php/widget/tweets.php:35
+#: megusta/lib/php/widget/contact.php:23
+#: megusta/lib/php/shcode/box.php:36
+#: megusta/lib/php/widget/latest_posts.php:154
+#: megusta/lib/php/widget/top_authors.php:88
+#: megusta/lib/php/widget/submit.php:52
+#: megusta/lib/php/widget/social_media.php:54
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/map.class.php:270
+msgid "Title Info"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Title is required. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/meta.class.php:1
+msgid "To change attachment click on the icon"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "To create a custom main or footer menu go to "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "To set a background image go to"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:334
+#: megusta/lib/php/widget/tabber.php:336
+msgid "Today"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:57
+msgid "Top Authors"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:1
+msgid "Top authors"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:1
+msgid "Top authors. (In order for this widget to function please install WordPress JetPack plugin)"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+#: megusta/lib/php/widget/social_media.php:63
+msgid "Twitter ID"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tweets.php:39
+msgid "Twitter User Name"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/box.php:8
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Type Title "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Type here the Copyright text that will appear in the footer. To display the current year use \"%year%\" and it will be replaced."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/main.php:13
+msgid "Typography"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/tweets.class.php:1
+msgid "Unable to read tweets !!!"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/post.class.php:150
+msgid "Unfortunately we did not find any posts."
+msgstr ""
+
+#. Text in echo
+#: megusta/loop-404.php:22
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "Unknown source"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:107
+msgid "Update"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:166
+#: megusta/post_item.php:262
+#: megusta/post_item.php:360
+#: megusta/post_item.php:465
+#: megusta/post_item.php:568
+msgid "Update post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Upload"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:203
+#: megusta/lib/php/CosmoUploader.class.php:276
+msgid "Upload a file."
+msgstr ""
+
+#. Text in echo
+#: megusta/footer.php:65
+msgid "Use advanced navigation for a better experience."
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:142
+#: megusta/post_item.php:240
+#: megusta/post_item.php:337
+#: megusta/post_item.php:441
+#: megusta/post_item.php:545
+msgid "Use comma to separate each tag. E.g. design, wtf, awesome."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Use facebook comments"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "Use human time"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/submit.php:58
+msgid "User register option is disabled"
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:74
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "Username or E-mail:"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.class.php:236
+msgid "Version"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:61
+#: megusta/lib/php/resources.register.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/meta.class.php:1
+msgid "Video player loads here."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/category_icons.php:38
+msgid "View all posts filed under %s"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "View source"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/WP_Editor.class.php:267
+msgid "Visual"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "WARNING! This will reset all current Loves."
+msgstr ""
+
+#. Text in echo
+#: megusta/loop-404.php:22
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:90
+#: megusta/comments.php:107
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: megusta/archive.php:48
+msgid "Yearly archives"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "You are not the author of this post. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "You can check your post %s here%s."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "You can create a FB Application from <a href=\"https://developers.facebook.com/apps\">here</a>."
+msgstr ""
+
+#. Text in echo
+#: megusta/footer.php:67
+msgid "You can quickly scroll through posts by pressing the above keyboard keys. Now press <strong>Esc</strong> to close this window."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "You can set facebook application ID"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:583
+msgid "You must be <a href=\"#\" class=\"simplemodal-login simplemodal-none link\">logged in</a> to submit a post."
+msgstr ""
+
+#. Text in echo
+#: megusta/user_profile.php:24
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "You must be logged in to submit a post!"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:958
+msgid "You must be logged in to submit a post! "
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:576
+msgid "You must be logged in to submit an post"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "You need to be logged in to see this post."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "You need to be logged in to submit content."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/simple_modal_login.class.php:1
+msgid "You need to be logged in to vote."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/contact.php:43
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#. Text in echo
+#: megusta/comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/contact.class.php:68
+#: megusta/lib/php/widget/contact.php:27
+#: megusta/comments.php:107
+msgid "Your email"
+msgstr ""
+
+#. Text in function
+#: megusta/comments.php:107
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/contact.class.php:65
+#: megusta/comments.php:107
+msgid "Your name"
+msgstr ""
+
+#. Text in function
+#: megusta/user_profile.php:7
+msgid "Your profile info was updated."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/CosmoUploader.class.php:204
+msgid "ZIP, RAR, PDF or DOC. "
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:846
+msgid "ago"
+msgstr "atrás"
+
+#. Text in function
+#: megusta/lib/php/post.class.php:846
+msgid "at"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "check for boxed content style."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "check to show \"register\" link."
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:70
+msgid "comments"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/contact.class.php:81
+msgid "error, fill all required fields ( name )"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/contact.class.php:81
+msgid "error, sending email failed"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/post.class.php:154
+msgid "get more"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/shcode/contact.php:41
+#: megusta/lib/php/options.register.php:1
+msgid "here"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/extra.class.php:1
+msgid "hint"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:258
+#: megusta/lib/php/main.php:270
+#: megusta/lib/php/main.php:278
+#: megusta/lib/php/widget/tabber.php:61
+msgid "hot"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "if you do not use this option, will be used wordpress time format"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.class.php:236
+msgid "is available, please update now."
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.class.php:236
+msgid "label"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:289
+msgid "login"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/extra.class.php:1
+msgid "main sidebar"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:262
+#: megusta/lib/php/main.php:282
+#: megusta/lib/php/widget/tabber.php:62
+#: megusta/lib/php/widget/tabber.php:65
+msgid "new"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:150
+msgid "profile"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/main.php:287
+msgid "random"
+msgstr ""
+
+#. Text in echo
+#: megusta/post_item.php:139
+#: megusta/post_item.php:542
+msgid "recommended"
+msgstr ""
+
+#. Text in echo
+#: megusta/lib/php/widget/tabber.php:74
+msgid "tags"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/options.register.php:1
+msgid "to change blog title go to <a href=\"options-general.php\">general settings </a> "
+msgstr ""
+
+#. Text in echo
+#: megusta/searchform.php:4
+msgid "to search, type and hit enter"
+msgstr "para procurar, digite aqui"
+
+#. Text in function
+#: megusta/lib/php/options.class.php:236
+msgid "version"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:98
+msgid "view"
+msgstr ""
+
+#. Text in function
+#: megusta/lib/php/widget/top_authors.php:98
+msgid "views"
+msgstr ""
+
