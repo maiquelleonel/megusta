@@ -1,12 +1,13 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: William Franz <william@linklar.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. Text in function
-#: megusta/lib/php/options.register.php:1
-msgid ""
-msgstr ""
 
 #. Text in echo
 #: megusta/lib/php/widget/tabber.php:445
@@ -40,7 +41,7 @@ msgstr ""
 #: megusta/lib/php/widget/tabber.php:348
 #: megusta/lib/php/widget/top_authors.php:38
 msgid "30 days"
-msgstr ""
+msgstr "30 dias"
 
 #. Text in function
 #: megusta/lib/php/options.register.php:1
@@ -52,7 +53,7 @@ msgstr ""
 #: megusta/lib/php/widget/tabber.php:342
 #: megusta/lib/php/widget/top_authors.php:37
 msgid "7 days"
-msgstr ""
+msgstr "7 dias"
 
 #. Text in function
 #: megusta/lib/php/simple_modal_login.class.php:1
@@ -1145,7 +1146,7 @@ msgstr ""
 #. Text in echo
 #: megusta/page.php:133
 msgid "Leave a Reply"
-msgstr ""
+msgstr "Deixe um comentário"
 
 #. Text in echo
 #: megusta/single.php:413
@@ -1687,17 +1688,17 @@ msgstr ""
 #: megusta/searchform.php:7
 #: megusta/lib/php/options.register.php:1
 msgid "Search"
-msgstr ""
+msgstr "Busca"
 
 #. Text in echo
 #: megusta/search.php:32
 msgid "Search results"
-msgstr ""
+msgstr "Resultados de busca"
 
 #. Text in function
 #: megusta/lib/php/main.php:293
 msgid "Search results for"
-msgstr ""
+msgstr "Resultados de busca por"
 
 #. Text in function
 #: megusta/lib/php/options.register.php:1
@@ -2537,7 +2538,7 @@ msgstr ""
 #. Text in function
 #: megusta/lib/php/post.class.php:846
 msgid "ago"
-msgstr ""
+msgstr "atrás"
 
 #. Text in function
 #: megusta/lib/php/post.class.php:846
@@ -2655,7 +2656,7 @@ msgstr ""
 #. Text in echo
 #: megusta/searchform.php:4
 msgid "to search, type and hit enter"
-msgstr ""
+msgstr "para procurar, digite aqui"
 
 #. Text in function
 #: megusta/lib/php/options.class.php:236
@@ -2671,3 +2672,4 @@ msgstr ""
 #: megusta/lib/php/widget/top_authors.php:98
 msgid "views"
 msgstr ""
+
