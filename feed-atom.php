@@ -4,6 +4,16 @@
  *
  * @package WordPress
  */
+function my_atom_image(){
+  global $post;
+  if(has_post_thumbnail($post->ID)){
+     $thumnail_id = get_the_post_thumbnail($post->ID); 
+     $img_url = pos(wp_get_attachment_image_src($thumbnail_id, 'thumbnail'));
+     if(!empty($img_url)){
+        echo '<img src="'. $img_url .' />'.PHP_EOL;       
+     }
+  }
+}
 
 header('Content-Type: ' . feed_content_type('atom') . '; charset=' . get_option('blog_charset'), true);
 $more = 1;
@@ -43,7 +53,7 @@ echo '<?xml version="1.0" encoding="'.get_option('blog_charset').'"?'.'>'; ?>
 		<?php the_category_rss('atom') ?>
 		<summary type="<?php html_type_rss(); ?>"><![CDATA[<?php the_excerpt_rss(); ?>]]></summary>
 <?php if ( !get_option('rss_use_excerpt') ) : ?>
-		<content type="<?php html_type_rss(); ?>" xml:base="<?php the_permalink_rss() ?>"><![CDATA[<?php get_the_post_thumbnail(the_ID()) . the_content_feed('atom') ?>]]></content>
+		<content type="<?php html_type_rss(); ?>" xml:base="<?php the_permalink_rss() ?>"><![CDATA[<?php my_atom_image(); the_content_feed('atom') ?>]]></content>
 <?php endif; ?>
 <?php atom_enclosure(); ?>
 <?php do_action('atom_entry'); ?>
