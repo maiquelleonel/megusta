@@ -7,11 +7,9 @@
 function my_atom_image(){
   global $post;
   if(has_post_thumbnail($post->ID)){
-     $thumnail_id = get_the_post_thumbnail($post->ID); 
-     $img_url = pos(wp_get_attachment_image_src($thumbnail_id, 'thumbnail'));
-     if(!empty($img_url)){
-        echo '<img src="'. $img_url .' />'.PHP_EOL;       
-     }
+     $thumbnail_id = get_the_post_thumbnail($post->ID); 
+     $img_url = wp_get_attachment_image_src($thumbnail_id);
+     echo '<img src="'. $img_url[0] .' />'.PHP_EOL;       
   }
 }
 
