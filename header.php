@@ -12,6 +12,7 @@
         <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
         <meta name="robots"  content="index, follow"/>
 		<meta name="description" content="<?php echo get_bloginfo('description'); ?>"/> 
+		<meta name="msvalidate.01" content="E88B4A1A153C86695E5B056B33C8A96C" />
 		<?php if(is_single() || is_page()){ ?>
 			<meta property='og:title' content='<?php the_title() ?>' />
 			<meta property='og:site_name' content='<?php echo get_bloginfo('name'); ?>' />
