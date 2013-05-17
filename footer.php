@@ -8,7 +8,7 @@
                         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
                     })();
                 </script>
-
+               <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
                 <?php
 					/*$pattern = explode( '.' , options::get_value( 'styling' , 'background' ) ) ;
 					if( isset( $pattern[ count( $pattern ) - 1 ] ) && $pattern[ count( $pattern ) - 1 ] == 'none' ){
